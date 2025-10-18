@@ -1,20 +1,25 @@
   <h1 align="center">Farhan Ali Arshad</h1>
-<h3 align="center">Software Engineer focus on Machine Learning and NLP</h3>
+<h3 align="center">Software Engineer focus on Generative AI and NLP</h3>
 
 ## ABOUT ME
-Hello, I'm Farhan Ali Arshad. Born and raised in Pakistan, I've been living in Germany and fully immersed in the world of quality assurance ever since I wrote my first automated test script. I hold a Bachelor's degree in Software Engineering from the University of Gujrat, and my true passion lies in ensuring software excellence through comprehensive testing. Currently, I'm pursuing an MSc in Natural Language Processing at the University of Trier, Germany, where I'm thriving as a passionate QA engineer transitioning into the exciting world of Machine Learning. My work focuses on developing secure ML systems while implementing robust evaluation frameworks.
+I’m originally from Pakistan and currently living in Germany. My journey in tech began with Quality Assurance, where I wrote my first automated test script and discovered my passion for improving software reliability and building systems that truly perform. That experience shaped my mindset toward precision, testing discipline, and continuous improvement , values I carry into everything I create today.
 
-## A FEW THINGS THAT DEFINE ME
-- **Purpose-driven:** Passionate about creating AI solutions with social impact, ethical AI development, and security vulnerability mitigation
-- **Growth-oriented:** Constantly improving my technical abilities through collaboration with teams and colleagues
-- **Collaborative:** I do my best work in environments where knowledge sharing and teamwork are valued, surrounded by people passionate about helping each other grow
+Now, I’m moving forward into the exciting world of Generative AI. While I’m learning the core foundations of Machine Learning and Natural Language Processing, my real focus is on building Generative AI systems that can reason, create, and communicate with human-like intelligence.
 
-## MY STUDIES AND GOALS
-My current career goal is to focus on learning and solidifying the foundational knowledge required to work as a Machine Learning Engineer, specializing in NLP. I'm mapping out areas of knowledge to study further, aiming to become a technical expert in the field of Natural Language Processing and AI security.
+I’m currently pursuing my Master’s in Natural Language Processing at the University of Trier, Germany, where I’m exploring how to design and evaluate advanced generative systems responsibly. My background in QA helps me bring a strong focus on quality, security, and trustworthiness into every AI project I work on.
+
+## 🎯 What I’m Focusing On
+- Strengthening my understanding of Machine Learning, Deep Learning, and NLP fundamentals
+- Developing and understanding Retrieval-Augmented Generation (RAG) systems
+- Implementing Vector Databases for efficient data retrieval and context management
+- Experimenting with RAG techniques to improve response relevance and factual accuracy
+- Building generative pipelines using LangChain and LLM frameworks
+- Exploring prompt engineering, LLM evaluation, and fine-tuning strategies
+- Creating evaluation frameworks for text generation and reasoning tasks
 
 ---
-### • I'M LEARNING
-Technologies, tools and frameworks I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
+### 📘 I’m Learning
+Technologies, tools, and frameworks that I’ve worked with, use regularly in my daily projects, and continue to learn and improve every day.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -51,7 +56,7 @@ Technologies, tools and frameworks I have had contact with or have closer contac
 ---
 
 ### • I WISH TO LEARN
-The main technologies, tools and frameworks I intend to develop, enhance, or study in the future. Technology I have little familiarity with at the moment but have a lot of interest in learning. These technologies/frameworks are definitely on my list for future studies.
+These are the technologies and frameworks I’m most excited to learn next. I don’t have much hands-on experience with them yet, but they’re high on my list to explore, practice, and master in the near future.
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-43B02A?style=for-the-badge&logo=dvc&logoColor=white)  ![TensorFlow Extended](https://img.shields.io/badge/TensorFlow_Extended-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
