@@ -47,7 +47,6 @@ Technologies, tools, and frameworks that I’ve worked with, use regularly in my
 ![Weights & Biases](https://img.shields.io/badge/Weights&Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![RunPod](https://img.shields.io/badge/RunPod-000000?style=for-the-badge&logo=runpod&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9AABB2?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
